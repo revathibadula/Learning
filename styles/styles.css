@@ -1,0 +1,337 @@
+a.toplinks
+{
+	font-family:Verdana;
+	color:#6666FF;
+	font-size:10px;	
+	text-decoration:none;
+        background-color: #ccccff;
+}
+a.genlinks
+{
+	font-family:Tahoma;
+	color:#3333ff;
+	font-size:11px;	
+        text-decoration: underline;
+        cursor: hand;
+}
+a.genlinks Hover{
+        font-family:Tahoma;
+	color:#FF0000;
+	font-size:11px;	
+        text-decoration: underline;
+} 
+a.genlinks Active{
+        font-family:Tahoma;
+	color:#FF00FF;
+	font-size:11px;	
+        text-decoration: underline;
+}
+.row_title {
+    FONT-SIZE: 11px; FONT-WEIGHT: bold; font-family:Tahoma;
+    background-color: #606060; /*#cc0033;*/
+    color: #ffffff;
+}
+.row_odd {
+    FONT-SIZE: 11px; BACKGROUND-COLOR: #D0D0D0 ;FONT-WEIGHT: normal; font-family:Tahoma;
+    color: #000000;
+}
+.row_even {
+    FONT-SIZE: 11px; BACKGROUND-COLOR: #C0C0C0 ;FONT-WEIGHT: normal; font-family:Tahoma;
+    color: #000000;
+}
+tr{
+    FONT-SIZE: 11px; BACKGROUND-COLOR: #C0C0C0 ;FONT-WEIGHT: normal; font-family:Tahoma;
+    color: #000000;
+}
+TABLE {
+    BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px;
+}
+tr.Top{
+    FONT-SIZE: 11px; BACKGROUND-COLOR: #000000 ;FONT-WEIGHT: normal; font-family:Tahoma;
+    color: #FFFFFF;
+}
+fieldset,legend {
+    
+    font-family: monospace;
+    font-size: 10px;
+    
+    font-style: normal;
+    font-weight: bold;
+    background-color: white;
+    color: black;
+}
+body.Main{
+    background-color: #C0C0C0;
+    font: icon;
+    color: black;
+}
+body.LeftPane{
+    background-color: #C0C0C0;
+    font: icon;
+    color: black;
+}
+
+body.SC{
+    background-color: #C0C0C0;
+    font: icon;
+    color: black;
+}
+    .pg-normal {
+        color: Blue;
+        font-weight: normal;
+        text-decoration: none;    
+        cursor: hand; 
+               
+   }
+   .pg-selected {
+        color: black;
+        font-weight: bold;        
+        text-decoration: underline;
+        cursor: pointer;
+   }
+   .pg_div{
+        font-family:calibri;
+        font-size:12px;
+    }
+  .menu {background-color:#C0C0C0;border-bottom:0px solid #d7d7d7; height:23px;width:700px; TEXT-ALIGN:CENTER}
+  .menu ul {margin:0px; padding:0px; list-style:none; text-align:center;}
+  .menu td {display:inline; line-height:23px;}
+  .menu li a {color:#ffffff; text-decoration:none; padding:5px 5px 6px 5px; }
+  .menu li a.tabactive {border-left:1px solid #d7d7d7; border-right:1px solid #d7d7d7; color:#000000; background-color:#C0C0C0; font-weight:bold;  position:relative;}
+  .tdclass1 {
+        display:inline; 
+        line-height:23px;
+        font-family:Tahoma;
+        font-size:11px;
+        text-align:center;
+        color:#ffffff;
+        border-top-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-right-style: solid;
+        border-top-width: 1px;
+        border-bottom-width: 0px;
+        border-left-width: 1px;
+        border-right-width: 1px;
+        border-top-color: #000000;
+        border-bottom-color: #000000;
+        border-left-color: #000000;
+        border-right-color: #000000;
+}
+  .tdclass2 {display:inline; line-height:23px;font-family:Tahoma;font-size:11px;bgcolor:#ffffff}
+  .subMenu  {
+        background-color:#C0C0C0; 
+        color: #0000ff;
+        font-family: Tahoma,Georgia,Verdana;
+   }
+   .subMenuHighLight  {
+        background-color:#FFFFFF; 
+        color: #000000;
+       font-style: italic;
+       font-family: Tahoma,Georgia,Verdana;
+}
+.dgHeader
+{
+	font-weight:bold;
+	border-color:#FFFFFF;
+	background-color:#C0C0C0; 
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-color:#FFFFFF;
+	border-bottom-color:#FFFFFF;
+	border-left-color:#FFFFFF;
+	border-right-color:#FFFFFF;
+         
+}
+ body.tabbedmenu
+ {
+     font-size:11px;
+     cursor:hand;
+     background-color:#C0C0C0;
+     font-family: Tahoma;
+}
+.TabClassNormal{
+     color:#000000;
+    background-color: #C0C0C0;
+}
+
+.TabClassHover{
+    color:#ffff33;
+    background-color: #c80000;
+}
+.Button{
+	font-size:	9pt;
+	text-align:	center;
+	text-decoration: none;
+	color:		#663300;
+	background:	#EAEBD6;
+	border-top:	2px solid #C9C9C9;
+	border-left:	2px solid #C9C9C9;
+	border-right:	2px solid #C9C9C9;
+	border-bottom:	2px solid #C9C9C9;
+	font-family:	Tahoma,Verdana, Arial,"Comic Sans MS";
+
+}
+.TextField	{
+	font-size:	9pt;
+	text-align:	center;
+	text-decoration: none;
+	color:		#666666;
+	background:	#ffffff;
+	border-top:	1px solid #C9C9C9;
+	border-left:	1px solid #C9C9C9;
+	border-right:	1px solid #C9C9C9;
+	border-bottom:	1px solid #C9C9C9;
+	font-family:	Tahoma,Verdana, Arial,"Comic Sans MS";
+	width: 120px;
+	}
+       
+P{
+        font-size:	9pt;
+	text-decoration: none;
+	color:		#000000;
+	font-family:	Tahoma,Verdana, Arial,"Comic Sans MS";
+	
+}         
+.ListBox {
+	font-size:	9pt;
+	text-align:	center;
+	text-decoration: none;
+	color:		#666666;
+	background:	#ffffff;
+	font-family:	Tahoma,Verdana, Arial,"Comic Sans MS";
+
+}
+.noborder{
+    
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;
+    border-left-color: #ffffff;
+    border-right-color: #ffffff;
+    background-color: #C0C0C0;
+}
+.BoldFont{
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    color: purple;
+    
+}
+fieldset.custom{
+    width:95%;
+    top:300;
+    left:120px;
+    height:90%;
+    overflow: auto;
+}
+fieldset.Fixed{
+    width:95%;
+    top:300;
+    left:120px;
+    height:250px;
+    overflow: auto;
+   
+}
+fieldset.FixedBig{
+       width:95%;
+        top:300;
+        left:120px;
+        height:600px;
+        overflow: auto;
+}
+legend{
+ FONT-SIZE: 11px;FONT-WEIGHT: normal; font-family:Tahoma;
+ color: #000000;
+}
+Div{
+FONT-SIZE: 11px;FONT-WEIGHT: normal; font-family:Tahoma;
+ color: #000000;
+}
+.Hidden{
+    visibility:hidden;
+}
+.Visible{
+    visibility:block;
+}
+.Center{
+    text-align: center;
+    background-position: center center;
+}
+.Left{
+    text-align: left;
+    background-position: left left;
+}
+.Right{
+    text-align: center;
+    background-position: right right;
+}
+.Small	{
+	width: 25px;
+	}   
+.Medium	{
+	width: 60px;
+	} 
+.MLarge{
+        width: 100px;
+}
+.Large {
+        width: 200px;
+  } 
+.XtraLarge{
+        width: 350px;
+}
+.Normal	{
+	font-weight: normal;
+}   
+.Bold	{
+        font-weight: bold;
+} 
+.Bolder {
+        font-weight: bolder;
+}
+.UnderLine{
+    text-decoration: underline;
+}
+.Italic{
+    font-style: italic;
+}
+.OverLine{
+    text-decoration: overline;
+}
+.MainDiv{
+    background-color: #C0C0C0;
+    font: icon;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-color: #009999;
+    border-bottom-color: #009999;
+    border-left-color: #009999;
+    border-right-color: #009999;
+    background-position: center center;
+    visibility: visible;
+    z-index: 10;
+    position: relative;
+    top: 150px;
+    width:50%;
+    height:50%;
+    left:200px;
+}
