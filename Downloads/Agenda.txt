@@ -1,0 +1,54 @@
+Data Centric Knowledge Management System
+About
+Existing System 
+Proposed System
+Softwares
+  Web Server : Apache Tomcat 5.0
+  Technology : JDK 5.0
+  Web Browser : Internet Explorer 6.0
+  Database : MySQL 5.0
+  Editor : Editplus2
+ 
+Hardware
+	Harddisk : 80 GB
+        Processor : P4 3.0 GHz
+        RAM : 1 GB
+Technologies
+     Front End: Java,JSP,Servlets,JavaScript,HTML,DHTML,CSS
+     Back End : MySQL
+Design
+DB Design
+Experts
+KBData
+Login
+MasterData
+reviewerdetails
+menu_base
+menu_frame_executable_mapping
+menu_role_relationship
+menuitem_relationship
+
+
+App Design
+
+Modules:
+•	K-Bank Module
+•	Evaluation
+•	Admin
+•	Reports Module
+
+Users
+	Admin
+	KUser
+	Reviewer
+	KTeam
+Application Demo
+
+Software Installation
+App Deployment
+FAQs
+
+
+
+
+
